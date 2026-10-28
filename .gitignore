@@ -1,0 +1,22 @@
+# зависимости
+node_modules/
+venv/
+
+# сборка
+bin/
+obj/
+dist/
+*.exe
+*.dll
+
+# IDE
+.vscode/
+.idea/
+
+# секреты
+.env
+*.key
+
+# ОС
+.DS_Store
+Thumbs.db
